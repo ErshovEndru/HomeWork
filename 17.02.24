@@ -1,5 +1,5 @@
 program MyProgram;
-var 
+var  
   a,b: integer;
   r: real;
 begin
