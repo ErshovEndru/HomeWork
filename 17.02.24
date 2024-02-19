@@ -1,6 +1,6 @@
 program MyProgram;
 var  
-  a,b: integer;
+  a,b: integer; 
   r: real;
 begin
   readln(a,b);
