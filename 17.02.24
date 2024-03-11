@@ -2,7 +2,7 @@ program MyProgram;
 var        
   a,b: integer;        
   r: real;      
-begin
+begin 
   readln(a,b);
   x := a/b;
   writeln(x);
