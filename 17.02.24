@@ -1,7 +1,7 @@
 program MyProgram;
 var                   
   a,b: integer;                        
-  r: real;                         
+  r: real;                          
 begin          
   readln(a,b);        
   x := a/b;
